@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: red;
+    /* height: 100%; */
+}
+.one{
+    background-color: black;
+    height: 300px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.styling{
+    text-align: center;
+}
+button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: blue;
+    font-weight: bold;
+}
